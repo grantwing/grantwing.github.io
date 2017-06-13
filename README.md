@@ -1,2 +1,3 @@
 # grantwing.github.io
-Mmmmm tangy
+A little about me, my ambitions, and what I do
+
