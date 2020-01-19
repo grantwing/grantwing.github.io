@@ -44,3 +44,9 @@ code {
 pre {
   padding: 1em;
 }
+
+#footer li {
+  display: inline;
+  margin-right: 20px;
+  font-weight: bold;
+}
