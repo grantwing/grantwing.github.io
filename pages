@@ -17,7 +17,7 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <title>Grant Wing</title>
+    <title>Grant Wing - Places</title>
   </head>
 
   <body>
@@ -32,21 +32,19 @@
         <div class="inner">
 
           <header>
-            <h1 id="project_title">Grant Wing</h1>
+            <h1 id="project_title">Places</h1>
           </header>
 
           <section id="main_content">
-            <img src="images/grantwing.png" alt="Grant Wing" style="width:50%;">
+            <!-- <img src="images/grantwing.png" alt="Grant Wing" style="width:50%;"> -->
             <br>
-            <p id="title">
-              Business Analyst at <a href="https://lendedu.com">LendEDU</a>
-              <br>
-              New York City
-              <br>
-              grant.d.wing@gmail.com
-              <br>
-              <a href="https://www.linkedin.com/in/grantwing/">LinkedIn</a>
-            </p>
+            <h2 id="nyc">New York, NY</h2>
+            <br>
+            <h3 id="nyc_ev">East Village</h3>
+            <br>
+            <ul>
+              <li><strong>Baker's Pizza</strong> - delicious pizza</li>
+            </ul>
 
           </section>
 
