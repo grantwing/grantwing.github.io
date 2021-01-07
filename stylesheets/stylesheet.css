@@ -335,6 +335,15 @@ footer a:hover {
   content: '.';
 }
 
+/* GRANT ADDITIONS */
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
 .clearfix {display: inline-block;}
 * html .clearfix {height: 1%;}
 .clearfix {display: block;}
